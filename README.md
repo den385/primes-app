@@ -1,4 +1,4 @@
-PrimeSequences
+PrimesFromBinary
 ================
 
 A small console app to find ascending sequences of primes in a binary file. Binary file is interpreted 6byte-wise 
