@@ -1,8 +1,8 @@
 MonotonousPrimeSequences
 ========================
 
-A small console app to find ascending sequences of primes in a binary file. Binary file is interpreted 6byte-wise 
-and the remainder is cut off.
+Console App in C# and C++ to find the longest asc sequence of primes in binary file. Binary file is interpreted 
+6byte-wise and the remainder is cut off.
 
 The app utilizes multithreading, BPSW algorithm and precomputed plain array. This array is a sorted storage 
 for small primes. Also there are several basic optimizations like bitwise shift to recognize even numbers and hardcoded
