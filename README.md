@@ -1,5 +1,5 @@
-MonotonousPrimeSequences
-========================
+AscendingPrimeSequences
+=======================
 
 Console App in C# and C++ to find the longest asc sequence of primes in binary file. Binary file is interpreted 
 6byte-wise and the remainder is cut off.
