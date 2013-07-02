@@ -1,5 +1,5 @@
-PrimesFromBinary
-================
+MonotonousPrimeSequences
+========================
 
 A small console app to find ascending sequences of primes in a binary file. Binary file is interpreted 6byte-wise 
 and the remainder is cut off.
@@ -11,3 +11,7 @@ primes up till 1000.
 The app draws has CLI with progress bar in pseudographics.
 
 The app is written in C# and native C++ with  glue code in C++/CLI.
+
+The algorithmic code is BPSW.cpp was borrowed from http://e-maxx.ru/algo/bpsw.
+
+My sole purpose for writing this code was to practice basic C# multithreading and few other things.
